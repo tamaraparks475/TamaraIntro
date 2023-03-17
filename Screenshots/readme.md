@@ -1,3 +1,7 @@
-Folder contains screenshots of unix code that displays a listing of all files 
-and directories in the root directory; a listing of all files and directories in 
-the 
+Folder contains screenshots of unix code. 
+
+* **Path to current directory:** /Users/tamaraparks/Downloads/TamaraIntro/Screenshots
+* **Path to previous directory:** /Users/tamaraparks/Downloads/TamaraIntro
+* **Path to next directory:** /Users/tamaraparks/Downloads/TamaraIntro/Backups
+
+
