@@ -1,4 +1,4 @@
-# Attributs 
+# Attributes 
 
 1. Reflective 
 2. Curious 
