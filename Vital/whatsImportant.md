@@ -2,7 +2,7 @@
 
 * Family 
 * Communication
-* Educational Justice 
+* Educational justice 
 * Prioritizing people's well-being over rescources and profit
-* Engaging In Advocay Work
-* Growing In Ways That Challenge And Make Me A Little Uncomfortable 
+* Engaging in advocay work
+* Growing in ways the challenge me, and make me uncomfortbale 
